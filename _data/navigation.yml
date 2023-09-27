@@ -11,12 +11,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+           
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://github.com/LambdaLambdaLambda/LambdaLambdaLambda.github.io/blob/master/Alberto_Carraro_CV.pdf
