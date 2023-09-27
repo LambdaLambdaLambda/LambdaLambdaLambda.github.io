@@ -11,6 +11,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Awards"
+    url: /awards/
            
   - title: "CV"
-    url: https://github.com/LambdaLambdaLambda/LambdaLambdaLambda.github.io/blob/master/Alberto_Carraro_CV.pdf
+    url: /cv/

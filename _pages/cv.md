@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Università Ca' Foscari Venezia and Universite' Paris Diderot, 2011
+* Laurea Specialistica in Informatica (Laurea di secondo livello DM 599/99), Università Ca' Foscari Venezia, 2007
+* Laurea Triennale in Informatica (Laurea di primo livello DM 599/99), Università Ca' Foscari Venezia, 2005
+* Diploma di maturità di Perito Industriale Capotecnico - Specializzazione Informatica, 2002
+
+Open competitive exams
+======
+* Qualification aux fonctions de Maitre de Conférences (section 27 - Informatique)
+* Ingegnere dell'Informazione (sezione A), Università Ca' Foscari Venezia and Ordine degli Ingegneri della Provincia di Venezia, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014: attaché temporaire d'enseignement et de recherche
+  * Université Paris Diderot
+
+* 2013: research fellow
+  * Università Ca' Foscari Venezia
+  * Supervisor: Professor Antonino Salibra
+
+* 2012: attaché temporaire d'enseignement et de recherche
+  * Université Paris Diderot
+
+* 2011: research fellow
+  * Università Ca' Foscari Venezia
+  * Supervisor: Professor Antonino Salibra
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming in several languages (C/C++, Java, Python, Javascript, SQL, Bash, ...)
+* Languages
+  * Italian (mother tongue)
+  * English
+  * French
+* Data Science / Machine Learning / Deep Learning
+* Teaching
+* Research
 
 Publications
 ======
@@ -53,7 +66,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
